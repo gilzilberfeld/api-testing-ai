@@ -1,0 +1,1 @@
+Give me a list of cases a series of CRUD operations of the Votes endpoints. Not tests for each one, but a combination of calls.
