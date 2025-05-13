@@ -1,0 +1,1 @@
+I want to start testing from an image that was voted for 3 times. Create a Python function using the requests library to call the APIs to get to that state.
