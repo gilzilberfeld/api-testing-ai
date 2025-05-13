@@ -4,11 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac4f1409-3adb-4e5b-abb5-22a5d7d3e24f" name="Changes" comment="More cases" />
+    <list default="true" id="ac4f1409-3adb-4e5b-abb5-22a5d7d3e24f" name="Changes" comment="More cases">
+      <change afterPath="$PROJECT_DIR$/C5_Generation/S13_Generate_and_combine/prompt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C5_Generation/S13_Generate_and_combine/result.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C5_Generation/S14_With_PyTest/prompt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C5_Generation/S14_With_PyTest/result.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C5_Generation/S15_Refactor/prompt.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -86,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747146338127</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="More cases">
+      <option name="closed" value="true" />
+      <created>1747146543537</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747146543537</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
