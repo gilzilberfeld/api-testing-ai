@@ -5,27 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac4f1409-3adb-4e5b-abb5-22a5d7d3e24f" name="Changes" comment="More cases">
-      <change afterPath="$PROJECT_DIR$/C4_Setup_Cleanup/S12_Clean_All/prompt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C4_Setup_Cleanup/S12_Clean_All/result.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C5_Generate_Tests/S13_Generate_Test/prompt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C5_Generate_Tests/S13_Generate_Test/result..py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C5_Generate_Tests/S14_And_Now_In_PyTest/prompt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C5_Generate_Tests/S14_And_Now_In_PyTest/result.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C5_Generate_Tests/S15_Refactoring/prompt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C5_Generate_Tests/S15_Refactoring/result.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Data_Preparation/S09_Input_Data_For_Single_API/prompt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Data_Preparation/S09_Input_Data_For_Single_API/result.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Data_Preparation/S10_Input_Data_For_Multiple_APIs/prompt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Data_Preparation/S10_Input_Data_For_Multiple_APIs/result.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C1_Single_API_Suggestions/S1_Suggestions_Single_API/prompt.md" beforeDir="false" afterPath="$PROJECT_DIR$/C1_Single_API_Suggestions/S01_Suggestions_Single_API/prompt.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C1_Single_API_Suggestions/S1_Suggestions_Single_API/result.md" beforeDir="false" afterPath="$PROJECT_DIR$/C1_Single_API_Suggestions/S01_Suggestions_Single_API/result.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C1_Single_API_Suggestions/S2_Organized_cases/prompt.md" beforeDir="false" afterPath="$PROJECT_DIR$/C1_Single_API_Suggestions/S02_Organized_cases/prompt.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C1_Single_API_Suggestions/S2_Organized_cases/result.md" beforeDir="false" afterPath="$PROJECT_DIR$/C1_Single_API_Suggestions/S02_Organized_cases/result.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C1_Single_API_Suggestions/S3_Upload_image_cases/prompt.md" beforeDir="false" afterPath="$PROJECT_DIR$/C1_Single_API_Suggestions/S03_Upload_image_cases/prompt.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C1_Single_API_Suggestions/S3_Upload_image_cases/result.md" beforeDir="false" afterPath="$PROJECT_DIR$/C1_Single_API_Suggestions/S03_Upload_image_cases/result.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C1_Single_API_Suggestions/S4_Header_related/prompt.md" beforeDir="false" afterPath="$PROJECT_DIR$/C1_Single_API_Suggestions/S04_Header_related/prompt.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C1_Single_API_Suggestions/S4_Header_related/result.md" beforeDir="false" afterPath="$PROJECT_DIR$/C1_Single_API_Suggestions/S04_Header_related/result.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C2_Multiple_API_calls/S5_Sequence/prompt.md" beforeDir="false" afterPath="$PROJECT_DIR$/C2_Multiple_API_calls/S05_Sequence/prompt.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C2_Multiple_API_calls/S5_Sequence/result.md" beforeDir="false" afterPath="$PROJECT_DIR$/C2_Multiple_API_calls/S05_Sequence/result.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C2_Multiple_API_calls/S6_More_sequences/prompt.md" beforeDir="false" afterPath="$PROJECT_DIR$/C2_Multiple_API_calls/S06_More_sequences/prompt.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C2_Multiple_API_calls/S6_More_sequences/result.md" beforeDir="false" afterPath="$PROJECT_DIR$/C2_Multiple_API_calls/S06_More_sequences/result.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C2_Multiple_API_calls/S7_Concurrency_And_Multi_User/prompt.md" beforeDir="false" afterPath="$PROJECT_DIR$/C2_Multiple_API_calls/S07_Concurrency_And_Multi_User/prompt.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C2_Multiple_API_calls/S7_Concurrency_And_Multi_User/result.md" beforeDir="false" afterPath="$PROJECT_DIR$/C2_Multiple_API_calls/S07_Concurrency_And_Multi_User/result.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C2_Multiple_API_calls/S8_Prioritization/prompt.md" beforeDir="false" afterPath="$PROJECT_DIR$/C2_Multiple_API_calls/S08_Prioritization/prompt.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C2_Multiple_API_calls/S8_Prioritization/result.md" beforeDir="false" afterPath="$PROJECT_DIR$/C2_Multiple_API_calls/S08_Prioritization/result.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,20 +50,18 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/GitHub/Webinars/api-testing-with-ai/C5_Generate_Tests"
+    "last_opened_file_path": "C:/GitHub/Webinars/api-testing-with-ai/C3_Data_Preparation/S10_"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\GitHub\Webinars\api-testing-with-ai\C5_Generate_Tests" />
-      <recent name="C:\GitHub\Webinars\api-testing-with-ai\C4_Setup_Cleanup\S11_Get_To_The_Point" />
       <recent name="C:\GitHub\Webinars\api-testing-with-ai\C3_Data_Preparation\S10_" />
       <recent name="C:\GitHub\Webinars\api-testing-with-ai\C3_Data_Preparation\S09_" />
       <recent name="C:\GitHub\Webinars\api-testing-with-ai\C3_Data_Preparation" />
+      <recent name="C:\GitHub\Webinars\api-testing-with-ai\C2_Multiple_API_calls\S8_Prioritization" />
+      <recent name="C:\GitHub\Webinars\api-testing-with-ai\C2_Multiple_API_calls\S7_Concurrency_And_Multi_User" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\GitHub\Webinars\api-testing-with-ai" />
-      <recent name="C:\GitHub\Webinars\api-testing-with-ai\C4_Setup_Cleanup" />
       <recent name="C:\GitHub\Webinars\api-testing-with-ai\C2_Multiple_API_calls" />
       <recent name="C:\GitHub\Webinars\api-testing-with-ai\C1_Single_API_Suggestions" />
       <recent name="C:\GitHub\Webinars\api-testing-with-ai\S2_" />
@@ -96,15 +99,7 @@
       <option name="project" value="LOCAL" />
       <updated>1747143110653</updated>
     </task>
-    <task id="LOCAL-00003" summary="More cases">
-      <option name="closed" value="true" />
-      <created>1747144467395</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1747144467395</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

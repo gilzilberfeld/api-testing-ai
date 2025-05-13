@@ -1,1 +1,0 @@
-I also need a function to call after every test that cleans all images and votes.  
