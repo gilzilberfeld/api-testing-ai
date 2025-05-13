@@ -1,0 +1,1 @@
+I'd like to check cases of concurrent use of sequences of APIs, both by the same user and by multiple users. Can you suggest appropriate scenarios?
