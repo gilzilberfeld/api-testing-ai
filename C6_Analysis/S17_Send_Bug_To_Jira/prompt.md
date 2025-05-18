@@ -1,0 +1,1 @@
+Write a script that can automatically send the bug report to Jira.

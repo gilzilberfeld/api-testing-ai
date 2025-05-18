@@ -1,0 +1,1 @@
+If the test_vote_count_increases fails, generate text for a bug report. 
