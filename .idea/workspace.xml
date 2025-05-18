@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac4f1409-3adb-4e5b-abb5-22a5d7d3e24f" name="Changes" comment="More cases">
+    <list default="true" id="ac4f1409-3adb-4e5b-abb5-22a5d7d3e24f" name="Changes" comment="Analysis and report">
+      <change afterPath="$PROJECT_DIR$/C6_Analysis/S16_Better_Asserts/prompt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Analysis/S16_Better_Asserts/result.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C6_Analysis/S16_Bug_Report/prompt.md" beforeDir="false" afterPath="$PROJECT_DIR$/C7_Reporting/S16_Bug_Report/prompt.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C6_Analysis/S16_Bug_Report/result.md" beforeDir="false" afterPath="$PROJECT_DIR$/C7_Reporting/S16_Bug_Report/result.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C6_Analysis/S17_Send_Bug_To_Jira/prompt.md" beforeDir="false" afterPath="$PROJECT_DIR$/C7_Reporting/S17_Send_Bug_To_Jira/prompt.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C6_Analysis/S17_Send_Bug_To_Jira/result.py" beforeDir="false" afterPath="$PROJECT_DIR$/C7_Reporting/S17_Send_Bug_To_Jira/result.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,19 +44,20 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/GitHub/Webinars/api-testing-with-ai/C3_Data_Preparation/S10_",
+    "last_opened_file_path": "C:/GitHub/Webinars/api-testing-with-ai/C6_Analysis",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitHub\Webinars\api-testing-with-ai\C6_Analysis" />
       <recent name="C:\GitHub\Webinars\api-testing-with-ai\C3_Data_Preparation\S10_" />
       <recent name="C:\GitHub\Webinars\api-testing-with-ai\C3_Data_Preparation\S09_" />
       <recent name="C:\GitHub\Webinars\api-testing-with-ai\C3_Data_Preparation" />
       <recent name="C:\GitHub\Webinars\api-testing-with-ai\C2_Multiple_API_calls\S8_Prioritization" />
-      <recent name="C:\GitHub\Webinars\api-testing-with-ai\C2_Multiple_API_calls\S7_Concurrency_And_Multi_User" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitHub\Webinars\api-testing-with-ai\C7_Assertion_Data_Preparation" />
       <recent name="C:\GitHub\Webinars\api-testing-with-ai\C6_Analysis" />
       <recent name="C:\GitHub\Webinars\api-testing-with-ai\C2_Multiple_API_calls" />
       <recent name="C:\GitHub\Webinars\api-testing-with-ai\C1_Single_API_Suggestions" />
@@ -113,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747146919107</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Analysis and report">
+      <option name="closed" value="true" />
+      <created>1747557577919</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747557577919</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +145,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial" />
     <MESSAGE value="More cases" />
-    <option name="LAST_COMMIT_MESSAGE" value="More cases" />
+    <MESSAGE value="Analysis and report" />
+    <option name="LAST_COMMIT_MESSAGE" value="Analysis and report" />
   </component>
 </project>
