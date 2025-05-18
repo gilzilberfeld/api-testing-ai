@@ -4,42 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac4f1409-3adb-4e5b-abb5-22a5d7d3e24f" name="Changes" comment="Analysis and report">
-      <change afterPath="$PROJECT_DIR$/C3_Data_Preparation/S10_Assertion_Data_Preparation/prompt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C3_Data_Preparation/S10_Assertion_Data_Preparation/result.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Analysis/S18_Get_To_The_Point/prompt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Analysis/S19_Refactor_Builder/prompt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Analysis/S19_Refactor_Builder/result/api_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Analysis/S19_Refactor_Builder/result/builder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Analysis/S19_Refactor_Builder/result/image_vote_distribution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Analysis/S19_Refactor_Builder/result/main_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Analysis/S19_Refactor_Builder/result/userid_strategy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Analysis/S19_Refactor_Builder/result/vote_generation_result.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Analysis/S19_Refactor_Builder/result/vote_value_strategy.py" afterDir="false" />
+    <list default="true" id="ac4f1409-3adb-4e5b-abb5-22a5d7d3e24f" name="Changes" comment="All">
+      <change afterPath="$PROJECT_DIR$/C1_Single_API_Suggestions/P01_Single.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Multiple_API_calls/P02_Multiple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Data_Preparation/P03_Prepare.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C4_Setup_Cleanup/P04_Cleanup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C5_Generation/P05_Generate.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C3_Data_Preparation/S10_Input_Data_For_Multiple_APIs/prompt.md" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Data_Preparation/S11_Input_Data_For_Multiple_APIs/prompt.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C3_Data_Preparation/S10_Input_Data_For_Multiple_APIs/result.md" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Data_Preparation/S11_Input_Data_For_Multiple_APIs/result.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C4_Setup_Cleanup/S11_Get_To_The_Point/prompt.md" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Setup_Cleanup/S12_Get_To_The_Point/prompt.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C4_Setup_Cleanup/S11_Get_To_The_Point/result.py" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Setup_Cleanup/S12_Get_To_The_Point/result.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C4_Setup_Cleanup/S12_Clean_up/prompt.md" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Setup_Cleanup/S13_Clean_up/prompt.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C4_Setup_Cleanup/S12_Clean_up/result.py" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Setup_Cleanup/S13_Clean_up/result.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Generation/S13_Generate_and_combine/prompt.md" beforeDir="false" afterPath="$PROJECT_DIR$/C5_Generation/S14_Generate_and_combine/prompt.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Generation/S13_Generate_and_combine/result.py" beforeDir="false" afterPath="$PROJECT_DIR$/C5_Generation/S14_Generate_and_combine/result.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Generation/S14_With_PyTest/prompt.md" beforeDir="false" afterPath="$PROJECT_DIR$/C5_Generation/S15_With_PyTest/prompt.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Generation/S14_With_PyTest/result.py" beforeDir="false" afterPath="$PROJECT_DIR$/C5_Generation/S15_With_PyTest/result.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Generation/S15_Refactor/prompt.md" beforeDir="false" afterPath="$PROJECT_DIR$/C5_Generation/S16_Refactor/prompt.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Generation/S15_Refactor/result.md" beforeDir="false" afterPath="$PROJECT_DIR$/C5_Generation/S16_Refactor/result.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Generation/S15_Refactor/result.py" beforeDir="false" afterPath="$PROJECT_DIR$/C5_Generation/S16_Refactor/Result/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Generation/S15_Refactor/result_cat_api_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/C5_Generation/S16_Refactor/Result/cat_api_client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C6_Analysis/S16_Better_Asserts/prompt.md" beforeDir="false" afterPath="$PROJECT_DIR$/C6_Analysis/S17_Better_Asserts/prompt.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C6_Analysis/S16_Better_Asserts/result.py" beforeDir="false" afterPath="$PROJECT_DIR$/C6_Analysis/S17_Better_Asserts/Result/cat_api_client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C6_Analysis/S17_Get_To_The_Point/prompt.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C6_Analysis/S17_Get_To_The_Point/result.py" beforeDir="false" afterPath="$PROJECT_DIR$/C6_Analysis/S18_Get_To_The_Point/Result/generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C6_Analysis/S17_Get_To_The_Point/result_cat_api_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/C6_Analysis/S18_Get_To_The_Point/Result/cat_api_client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C7_Reporting/S16_Bug_Report/prompt.md" beforeDir="false" afterPath="$PROJECT_DIR$/C7_Reporting/S20_Bug_Report/prompt.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C7_Reporting/S16_Bug_Report/result.md" beforeDir="false" afterPath="$PROJECT_DIR$/C7_Reporting/S20_Bug_Report/result.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C7_Reporting/S17_Send_Bug_To_Jira/prompt.md" beforeDir="false" afterPath="$PROJECT_DIR$/C7_Reporting/S21_Send_Bug_To_Jira/prompt.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C7_Reporting/S17_Send_Bug_To_Jira/result.py" beforeDir="false" afterPath="$PROJECT_DIR$/C7_Reporting/S21_Send_Bug_To_Jira/result.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747559275299</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="All">
+      <option name="closed" value="true" />
+      <created>1747563475967</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1747563475967</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +161,7 @@
     <MESSAGE value="Initial" />
     <MESSAGE value="More cases" />
     <MESSAGE value="Analysis and report" />
-    <option name="LAST_COMMIT_MESSAGE" value="Analysis and report" />
+    <MESSAGE value="All" />
+    <option name="LAST_COMMIT_MESSAGE" value="All" />
   </component>
 </project>
