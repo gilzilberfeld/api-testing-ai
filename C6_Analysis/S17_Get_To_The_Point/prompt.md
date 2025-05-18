@@ -1,1 +1,0 @@
-Create a script that I can run that gets me to a number I vote, which I specify, all filled with random data.

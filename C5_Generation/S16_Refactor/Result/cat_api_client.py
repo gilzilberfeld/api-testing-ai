@@ -3,11 +3,13 @@ from typing import Dict, Any, List
 
 import requests
 
-from C5_Generation.S15_Refactor.result import BASE_URL, DEFAULT_DELAY
+BASE_URL = "https://api.thecatapi.com/v1"
+DEFAULT_DELAY = 0.3  # Default delay between API calls to avoid rate limiting
 
 
 class CatApiClient:
     """Client for interacting with The Cat API"""
+
 
     def __init__(self, api_key: str):
         """

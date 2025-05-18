@@ -1,0 +1,1 @@
+For the Votes POST endpoint, for submitting a valid vote with all required fields, create the expected response data.

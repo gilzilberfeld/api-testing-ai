@@ -3,8 +3,8 @@ from typing import Dict, Any, Optional, List
 
 import requests
 
-from C6_Analysis.S17_Get_To_The_Point.result import BASE_URL, DEFAULT_DELAY
-
+BASE_URL = "https://api.thecatapi.com/v1"
+DEFAULT_DELAY = 0.5  # Delay between API calls to avoid rate limiting
 
 class CatApiClient:
     """Wrapper client for interacting with The Cat API"""

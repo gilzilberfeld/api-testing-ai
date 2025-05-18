@@ -3,7 +3,9 @@ from typing import Dict, Any, List
 
 import requests
 
-from C5_Generation.S15_Refactor.result import BASE_URL, DEFAULT_DELAY
+BASE_URL = "https://api.thecatapi.com/v1"
+DEFAULT_DELAY = 0.3  # Default delay between API calls to avoid rate limiting
+
 class CatApiClient:
     """Client for interacting with The Cat API"""
 
@@ -103,7 +105,7 @@ class CatApiClient:
             # We don't fail the test here, as this is a secondary verification
 
         time.sleep(DEFAULT_DELAY)  # Small delay to avoid rate limiting
-        return vote
+        return vote_result
 
     def find_random_image(self) -> Dict[str, Any]:
         """
@@ -213,5 +215,3 @@ class CatApiClient:
         if response.status_code == 200:
             return response.json()
         return []
-
-_result

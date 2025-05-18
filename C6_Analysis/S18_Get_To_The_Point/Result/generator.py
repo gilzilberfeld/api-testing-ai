@@ -17,11 +17,8 @@ import argparse
 from typing import Dict, Any
 import json
 
-from C6_Analysis.S17_Get_To_The_Point.result_cat_api_client import CatApiClient
+from C6_Analysis.S18_Get_To_The_Point.Result.cat_api_client import CatApiClient
 
-# Constants
-DEFAULT_DELAY = 0.5  # Delay between API calls to avoid rate limiting
-BASE_URL = "https://api.thecatapi.com/v1"
 
 
 def generate_random_sub_id() -> str:

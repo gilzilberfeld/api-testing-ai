@@ -1,1 +1,0 @@
-The add_vote method checks only the status code. Update the code to include additional asserts.

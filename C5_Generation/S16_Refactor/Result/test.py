@@ -1,11 +1,10 @@
 import pytest
 
-from C5_Generation.S15_Refactor.result_cat_api_client import CatApiClient
+from C5_Generation.S16_Refactor.Result.cat_api_client import CatApiClient
+
 
 # Constants
-BASE_URL = "https://api.thecatapi.com/v1"
 API_KEY = "your_cat_api_key_here"  # Replace with your actual API key
-DEFAULT_DELAY = 0.3  # Default delay between API calls to avoid rate limiting
 
 
 @pytest.fixture
@@ -14,7 +13,7 @@ def api_client():
     Fixture providing a configured API client with proper headers.
 
     Returns:
-        C5_Generation.S15_Refactor.result_cat_api_client.CatApiClient: Configured client for making API requests
+        C5_Generation.S16_Refactor.result_cat_api_client.CatApiClient: Configured client for making API requests
     """
     return CatApiClient(API_KEY)
 
